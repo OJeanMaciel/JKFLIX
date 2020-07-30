@@ -48,58 +48,58 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Games Competitivos",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Highlights - Montage",
+        "url": "https://www.youtube.com/watch?v=1zHSH0x5STk"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Goosebumps ( Fortnite Montage )",
+          "url": "https://www.youtube.com/watch?v=2Ytyhgl2xys"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "CS:GO - BEST PRO!",
+          "url": "https://www.youtube.com/watch?v=85Bu12nW5xE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Dota 2 - Montage",
+          "url": "https://www.youtube.com/watch?v=wQUmZkOFkuE"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": " Valorant Highlights",
+          "url": "https://www.youtube.com/watch?v=y6hKr5PzBZc"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Competitive Highlights #2",
+          "url": "https://www.youtube.com/watch?v=Ht3Jrl6DFqM"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Games de Corrida",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Trailers",
+        "url": "https://www.youtube.com/watch?v=M4hwG0NujpI"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Need For Speed Cinematic Intros",
+          "url": "https://www.youtube.com/watch?v=Uc7u2UqEMwk"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Forza Horizon 4 Official ",
+          "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "DIRT 5 - Trailer ",
+          "url": "https://www.youtube.com/watch?v=D81Fs9c6ssY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Gran Turismo 7 - Announcement Trailer",
+          "url": "https://www.youtube.com/watch?v=oz-O74SmTSQ"
         }
       ]
     },
