@@ -1,45 +1,49 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Games Mundo Aberto",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Trailers de Mundo Aberto",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Grand Theft Auto V: Vídeo oficial de gameplay",
+          "url": "https://www.youtube.com/watch?v=gHtKJ9cWCaA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Red Dead Redemption 2: Official Trailer #2",
+            "url": "https://www.youtube.com/watch?v=F63h3v9QV7w"
+          },
+        {
+          "titulo": "GTA 4 ULTRA REALISTIC ",
+          "url": "https://www.youtube.com/watch?v=B8KtGeAEcDc&t=17s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "GTA SA - New HD Texture & Graphic",
+          "url": "https://www.youtube.com/watch?v=5vTO1Bi9yNk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Watch Dogs 2 - Trailer",
+          "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Sleeping dogs 2 ",
+          "url": "https://www.youtube.com/watch?v=UMrQ9fI0RLE"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Just Cause 4 - Official Reveal Trailer | E3 2018",
+          "url": "https://www.youtube.com/watch?v=Lfek7Kcq16g"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Shadow Of The Tomb Raider - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Call of Duty®: Warzone - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
         }        
       ]
     },
