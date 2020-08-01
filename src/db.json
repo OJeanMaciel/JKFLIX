@@ -1,0 +1,189 @@
+{
+    "categorias": [
+      {
+        "titulo": "Games Mundo Aberto",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Trailers de Mundo Aberto",
+          "url": "https://www.alura.com.br/cursos-online-front-end"
+        },
+        "videos": [
+          {
+            "titulo": "Grand Theft Auto V: Vídeo oficial de gameplay",
+            "url": "https://www.youtube.com/watch?v=gHtKJ9cWCaA"
+          },
+          {
+              "titulo": "Red Dead Redemption 2: Official Trailer #2",
+              "url": "https://www.youtube.com/watch?v=F63h3v9QV7w"
+            },
+          {
+            "titulo": "GTA 4 ULTRA REALISTIC ",
+            "url": "https://www.youtube.com/watch?v=B8KtGeAEcDc&t=17s"
+          },
+          {
+            "titulo": "GTA SA - New HD Texture & Graphic",
+            "url": "https://www.youtube.com/watch?v=5vTO1Bi9yNk"
+          },
+          {
+            "titulo": "Watch Dogs 2 - Trailer",
+            "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
+          },
+          {
+            "titulo": "Sleeping dogs 2 ",
+            "url": "https://www.youtube.com/watch?v=UMrQ9fI0RLE"
+          },
+          {
+            "titulo": "Just Cause 4 - Official Reveal Trailer | E3 2018",
+            "url": "https://www.youtube.com/watch?v=Lfek7Kcq16g"
+          },
+          {
+            "titulo": "Shadow Of The Tomb Raider - Official Trailer",
+            "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
+          },
+          {
+            "titulo": "Call of Duty®: Warzone - Official Trailer",
+            "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+          }        
+        ]
+      },
+      {
+        "titulo": "Games Competitivos",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Highlights - Montage",
+          "url": "https://www.youtube.com/watch?v=1zHSH0x5STk"
+        },
+        "videos": [
+          {
+            "titulo": "Goosebumps ( Fortnite Montage )",
+            "url": "https://www.youtube.com/watch?v=2Ytyhgl2xys"
+          },
+          {
+            "titulo": "CS:GO - BEST PRO!",
+            "url": "https://www.youtube.com/watch?v=85Bu12nW5xE"
+          },
+          {
+            "titulo": "Dota 2 - Montage",
+            "url": "https://www.youtube.com/watch?v=wQUmZkOFkuE"
+          },
+          {
+            "titulo": " Valorant Highlights",
+            "url": "https://www.youtube.com/watch?v=y6hKr5PzBZc"
+          }, 
+          {
+            "titulo": "Competitive Highlights #2",
+            "url": "https://www.youtube.com/watch?v=Ht3Jrl6DFqM"
+          }
+        ]
+      },
+      {
+        "titulo": "Games de Corrida",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Trailers",
+          "url": "https://www.youtube.com/watch?v=M4hwG0NujpI"
+        },
+        "videos": [
+          {
+            "titulo": "Need For Speed Cinematic Intros",
+            "url": "https://www.youtube.com/watch?v=Uc7u2UqEMwk"
+          },
+          {
+            "titulo": "Forza Horizon 4 Official ",
+            "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
+          },
+          {
+            "titulo": "DIRT 5 - Trailer ",
+            "url": "https://www.youtube.com/watch?v=D81Fs9c6ssY"
+          },
+          {
+            "titulo": "Gran Turismo 7 - Announcement Trailer",
+            "url": "https://www.youtube.com/watch?v=oz-O74SmTSQ"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          }
+        ]
+      },
+      {
+        "titulo": "Games",
+        "cor": "red",
+        "link_extra": {
+          "text": "Formação de Jogos na Alura",
+          "url": "https://www.alura.com.br/formacao-jogos-unity"
+        },
+        "videos": [
+          {
+            "titulo": "Final Fantasy 7",
+            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          },
+          {
+            "titulo": "Assassins Creed Valhalla",
+            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          },
+          {
+            "titulo": "God of War 4",
+            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          },
+          {
+            "titulo": "Resident Evil 8",
+            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          },
+          {
+            "titulo": "Pokémon Let's Go Pikachu/Eevee",
+            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          }
+        ]
+      },
+      {
+        "titulo": "Aprendendo a aprender tecnologia",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "Curso sobre aprendizado na Alura",
+          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        },
+        "videos": [
+          {
+            "titulo": "Como estudar melhor?",
+            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          },
+          {
+            "titulo": "Faculdade",
+            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          },
+          {
+            "titulo": "Frameworks",
+            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          },
+          {
+            "titulo": "A mágica do Aprendizado",
+            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          },
+          {
+            "titulo": "Como aprender a programar?",
+            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          }
+        ]
+      }
+    ]
+  }
