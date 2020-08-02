@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
+import Button from '../../../components/Button';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -26,21 +27,18 @@ function CadastroCategoria() {
     );
   }
 
-
   useEffect(() => {
-    if (window.location.href.includes('localhost')) {
-      const URL = 'https://jkflix.herokuapp.com/categorias';
-      fetch(URL)
-        .then(async (respostaDoServer) => {
-          if (respostaDoServer.ok) {
-            const resposta = await respostaDoServer.json();
-            setCategorias(resposta);
-            return;
-          }
-          throw new Error('Não foi possível pegar os dados');
-        });
-    }
+    console.log('Alo, Brasil');
+    const URL = 'http://localhost:8080/categorias';
+    fetch(URL)
+    .then(async (respostaDoServidor) => {
+      const resposta = await respostaDoServidor.json();
+      setCategorias([
+        ...resposta,
+      ]);
+    });
   }, []);
+  
 
   return (
     <PageDefault>
@@ -67,42 +65,45 @@ function CadastroCategoria() {
           name="nome"
           value={values.nome}
           onChange={handleChange}
-        />
+         />
 
-        <FormField
+          <FormField
           label="Descrição"
-          type="????"
+          type="textarea"
           name="descricao"
           value={values.descricao}
           onChange={handleChange}
-        />
-       
-        <FormField
+         />
+           
+          <FormField
           label="Cor"
           type="color"
           name="cor"
           value={values.cor}
           onChange={handleChange}
-        />
-        
+          />
 
-        <button>
-          Cadastrar
-        </button>
-      </form>
-
-      <ul>
+          <Button>
+             Cadastrar
+          </Button>
+           </form>
+           {categorias.length === 0 && (
+          <div>
+            Loading...
+          </div>
+           )}
+          <ul>
         {categorias.map((categoria, indice) => (
           <li key={`${categoria}${indice}`}>
-            {categoria.titulo}
+            {categoria.nome}
           </li>
         ))}
-      </ul>
+          </ul>
 
-      <Link to="/">
-        Ir para home
-      </Link>
-    </PageDefault>
+           <Link to="/">
+            Ir para Home
+            </Link>
+           </PageDefault>
   );
 }
 
