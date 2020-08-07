@@ -9,7 +9,7 @@ function Menu() {
     return (
         <nav className="Menu">
             <Link to="/">              
-            <img class="Logo" src={Logo} alt="JKFLIX logo" />
+            <img className="Logo" src={Logo} alt="JKFLIX logo" />
             </Link>
 
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
