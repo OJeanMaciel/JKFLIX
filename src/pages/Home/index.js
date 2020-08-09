@@ -4,6 +4,7 @@ import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import  categoriasRepository from '../../repositories/categorias';
 import PageDefault from '../../components/PageDefault';
+import Loading from '../../components/Loading';
 
 function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
@@ -24,8 +25,7 @@ function Home() {
     
     <PageDefault paddingAll={0}>
 
-      {dadosIniciais.length === 0 && (<div class="ldBar" data-value="50">
-</div>)}
+      {dadosIniciais.length === 0 && <Loading />}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {
