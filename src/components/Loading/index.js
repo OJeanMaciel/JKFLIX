@@ -11,7 +11,8 @@ import './index.css';
         <div class="loader circ" />
         <div class="loader circ2" /> 
         </div>          
-        );        
+        );      
     }
+
     
     export default Loading;

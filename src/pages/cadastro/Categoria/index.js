@@ -4,6 +4,7 @@ import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 import useForm from '../../../hooks/useForm';
+import Loading from '../../../components/Loading';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -77,11 +78,7 @@ function CadastroCategoria() {
              Cadastrar
           </Button>
            </form>
-           {categorias.length === 0 && (
-          <div>
-            Loading...
-          </div>
-           )}
+           {categorias.length === 0 && <Loading /> }
           <ul>
         {categorias.map((categoria, indice) => (
           <li key={`${categoria}${indice}`}>
