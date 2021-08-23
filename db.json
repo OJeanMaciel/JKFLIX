@@ -2,206 +2,201 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Mundo Aberto",
+      "titulo": "Dúvidas Bees",
       "cor": "#6BD1FF",
       "Link_extra": {
-        "text": "Trailers de Games Mundo Aberto",
-        "url": "https://www.youtube.com/results?search_query=trailers+de+games+mundo+aberto"
+        "text": "Dúvidas do parceiro bees",
+        "url": "https://www.youtube.com/c/ParceiroAmbevOficial/featured"
       }
     },
     {
       "id": 2,
-      "titulo": "Games Competitivos",
+      "titulo": "Brahmosidade",
       "cor": "#00C86F",
       "Link_extra": {
-        "text": "Highlights - Montage",
-        "url": "https://www.youtube.com/results?search_query=highlights+pro+players"
+        "text": "Brahmosidade",
+        "url": "https://www.youtube.com/channel/UCdWGP_DXcVkPPCHnz3u-LTQ"
       }
     },
     {
       "id": 3,
-      "titulo": "Games de Corridas",
+      "titulo": "Desafios",
       "cor": "#9cd33b"
     },
     {
       "id": 4,
-      "titulo": "Games de Tiros",
+      "titulo": "Outros recados Bees!",
       "cor": "#FF0000"
-    },
-    {
-      "id": 5,
-      "titulo": "Games Variados",
-      "cor": "#0033FF"
     }
   ],
   "videos": [
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "Grand Theft Auto V: Vídeo oficial de gameplay",
-      "url": "https://www.youtube.com/watch?v=gHtKJ9cWCaA"
+      "titulo": "Como consultar meus pedidos anteriores?",
+      "url": "https://www.youtube.com/watch?v=eDipaNu70fg"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "Red Dead Redemption 2: Official Trailer #2",
-      "url": "https://www.youtube.com/watch?v=F63h3v9QV7w"
+      "titulo": "Faça parte do Pontos e resgate produtos grátis!",
+      "url": "https://www.youtube.com/watch?v=48P9CfcL0fA"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "GTA 4 ULTRA REALISTIC ",
-      "url": "https://www.youtube.com/watch?v=B8KtGeAEcDc&t=17s"
+      "titulo": "Como saber quantos pontos tenho no Parceiro?",
+      "url": "https://www.youtube.com/watch?v=sQog_MXASyk"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "GTA SA - New HD Texture & Graphic",
-      "url": "https://www.youtube.com/watch?v=5vTO1Bi9yNk"
+      "titulo": "Acesse a aba Ganhe + Pontos e complete as tarefas!",
+      "url": "https://www.youtube.com/watch?v=eRk_UYUWx_o"
     },
     {
       "id": 5,
       "categoriaId": 1,
-      "titulo": "Watch Dogs 2 - Trailer",
-      "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
+      "titulo": "Como baixar o Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=VMusboWcyAI"
     },
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Sleeping dogs 2 ",
-      "url": "https://www.youtube.com/watch?v=UMrQ9fI0RLE"
+      "titulo": "Habilite as notificações do Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=iMI0R5rTh80"
     },
     {
       "id": 7,
       "categoriaId": 1,
-      "titulo": "Just Cause 4 - Official Reveal Trailer | E3 2018",
-      "url": "https://www.youtube.com/watch?v=Lfek7Kcq16g"
+      "titulo": "Veja como é fácil gerenciar sua conta no Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=BJ6Gsx3hlvs"
     },
     {
       "id": 8,
       "categoriaId": 1,
-      "titulo": "Shadow Of The Tomb Raider - Official Trailer",
-      "url": "https://www.youtube.com/watch?v=XYtyeqVQnRI"
+      "titulo": "Adicione ou troque uma conta no aplicativo Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=VpTvXX698_Y"
     },
     {
-      "id": 9,
-      "categoriaId": 4,
-      "titulo": "Call of Duty®: Warzone - Official Trailer",
-      "url": "https://www.youtube.com/watch?v=0E44DClsX5Q"
+      "titulo": "Como recuperar sua senha no Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=lLRbp700AAw",
+      "categoriaId": 1,
+      "id": 28
     },
     {
-      "id": 19,
-      "categoriaId": 4,
-      "titulo": "Goosebumps ( Fortnite Montage )",
-      "url": "https://www.youtube.com/watch?v=2Ytyhgl2xys"
+      "titulo": "Como fazer uma compra baseada nos meus pedidos anteriores?",
+      "url": "https://www.youtube.com/watch?v=PNK1pvJRG00",
+      "categoriaId": 1,
+      "id": 29
+    },
+    {
+      "titulo": "Onde vejo as promoções do Parceiro Bees?",
+      "url": "https://www.youtube.com/watch?v=u2Xuhjon3cU",
+      "categoriaId": 1,
+      "id": 30
+    },
+    {
+      "titulo": "Cancele o seu pedido pelo Parceiro Bees",
+      "url": "https://www.youtube.com/watch?v=KQ_M8CpjQ0c",
+      "categoriaId": 1,
+      "id": 31
+    },
+    {
+      "titulo": "Avalie a sua entrega no Parceiro Bees!",
+      "url": "https://www.youtube.com/watch?v=ccUSJ3DD9wE",
+      "categoriaId": 1,
+      "id": 32
+    },
+    {
+      "titulo": "Participe do programa de Pontos do Parceiro!",
+      "url": "https://www.youtube.com/watch?v=iFn3gn3J9XU",
+      "categoriaId": 1,
+      "id": 33
+    },
+    {
+      "titulo": "Resgate seus pontos no Parceiro!",
+      "url": "https://www.youtube.com/watch?v=a6fwC9syrW4",
+      "categoriaId": 1,
+      "id": 34
+    },
+    {
+      "titulo": "Solicite suporte pelo Parceiro!",
+      "url": "https://www.youtube.com/watch?v=AI9UHbMrh0w",
+      "categoriaId": 1,
+      "id": 35
+    },
+    {
+      "titulo": "Verifique os serviços financeiros para o seu negócio!",
+      "url": "https://www.youtube.com/watch?v=3hsKGlBFJlE",
+      "categoriaId": 1,
+      "id": 36
+    },
+    {
+      "titulo": "Resgate seus pontos no Parceiro!",
+      "url": "https://www.youtube.com/watch?v=a6fwC9syrW4",
+      "categoriaId": 1,
+      "id": 37
     },
     {
       "id": 10,
       "categoriaId": 2,
-      "titulo": "CS:GO - BEST PRO!",
-      "url": "https://www.youtube.com/watch?v=85Bu12nW5xE"
+      "titulo": "Dia do Churrasco - Brahmosidade",
+      "url": "https://www.youtube.com/watch?v=asDov-W1d8w"
     },
     {
       "id": 11,
       "categoriaId": 2,
-      "titulo": "Dota 2 - Montage",
-      "url": "https://www.youtube.com/watch?v=wQUmZkOFkuE"
+      "titulo": "Futebol com Brahmosidade | Promoção Parceiro BEES",
+      "url": "https://www.youtube.com/watch?v=n08q6RIDgX0"
     },
     {
       "id": 12,
       "categoriaId": 2,
-      "titulo": " Valorant Highlights",
-      "url": "https://www.youtube.com/watch?v=y6hKr5PzBZc"
-    },
-    {
-      "id": 13,
-      "categoriaId": 2,
-      "titulo": "Competitive Highlights #2",
-      "url": "https://www.youtube.com/watch?v=Ht3Jrl6DFqM"
+      "titulo": "Futebol com Brahmosidade | Ganhadores Promoção Parceiro BEES",
+      "url": "https://www.youtube.com/watch?v=OKW6u8vLqEE"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "Need For Speed Cinematic Intros",
-      "url": "https://www.youtube.com/watch?v=Uc7u2UqEMwk"
+      "titulo": "Quer ganhar mais Pontos? Execute as tarefas disponíveis no Bees!",
+      "url": "https://www.youtube.com/watch?v=pfUjqCgYA-Y"
     },
     {
       "id": 15,
       "categoriaId": 3,
-      "titulo": "Forza Horizon 4 Official ",
-      "url": "https://www.youtube.com/watch?v=zJ477xAIlgU"
-    },
-    {
-      "id": 16,
-      "categoriaId": 3,
-      "titulo": "DIRT 5 - Trailer ",
-      "url": "https://www.youtube.com/watch?v=D81Fs9c6ssY"
-    },
-    {
-      "id": 17,
-      "categoriaId": 3,
-      "titulo": "Gran Turismo 7 - Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=oz-O74SmTSQ"
-    },
-    {
-      "id": 18,
-      "categoriaId": 3,
-      "titulo": "Gran Turismo 7 - Announcement Trailer",
-      "url": "https://www.youtube.com/watch?v=oz-O74SmTSQ"
+      "titulo": "Aproveite a oportunidade de garantir Budweiser de graça no seu negócio!",
+      "url": "https://www.youtube.com/watch?v=4ge72T3Pj0k"
     },
     {
       "id": 20,
       "categoriaId": 4,
-      "titulo": "Counter-Strike: Global Offensive Trailer",
-      "url": "https://www.youtube.com/watch?v=edYCtaNueQY"
+      "titulo": "O Parceiro Bees se preocupa com você e com nossos colaboradores!",
+      "url": "https://www.youtube.com/watch?v=Ac7N6dpqUrI&t=4s"
     },
     {
       "id": 21,
       "categoriaId": 4,
-      "titulo": "Battlefield V - Trailer Oficial ",
-      "url": "https://www.youtube.com/watch?v=fb1MR85XFOc"
+      "titulo": "Conheça as Parceiras que estão por trás do Bees!",
+      "url": "https://www.youtube.com/watch?v=WSbSXJ1BGGw"
     },
     {
       "id": 22,
       "categoriaId": 4,
-      "titulo": "Battlefield 4: Official Multiplayer Launch Trailer",
-      "url": "https://www.youtube.com/watch?v=hl-VV9loYLw"
+      "titulo": "COISA DE MÃE É COISA NOSSA!",
+      "url": "https://www.youtube.com/watch?v=EtNSVmXEFdo&t=7s"
     },
     {
-      "id": 23,
-      "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "id": 9,
+      "categoriaId": 4,
+      "titulo": "Dá uma olhada na surpresa que a Anitta preparou pra você!",
+      "url": "https://www.youtube.com/watch?v=SUabDcOOnBM"
     },
     {
-      "id": 24,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-    },
-    {
-      "id": 25,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-    },
-    {
-      "id": 26,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-    },
-    {
-      "id": 27,
-      "categoriaId": 5,
-      "titulo": "Pokémon Let's Go Pikachu/Eevee",
-      "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-    },
-    {
-      "titulo": "GTA 5 - 4K ",
-      "url": "https://www.youtube.com/watch?v=kvW8vPEn-KY",
-      "categoriaId": 1,
-      "id": 28
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Promoção 100 anos de Guaraná no Bees!",
+      "url": "https://www.youtube.com/watch?v=qA-Y9-rzvF8"
     }
   ]
 }
